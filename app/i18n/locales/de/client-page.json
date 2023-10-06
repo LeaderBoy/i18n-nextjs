@@ -1,7 +1,7 @@
 {
-  "back-to-home" : "Zurück nach Hause",
-  "counter_one" : "eins ausgewählt",
-  "counter_other" : "{{count}} ausgewählt",
-  "counter_zero" : "keins ausgewählt",
-  "title" : "Kundenseite"
+  "back-to-home" : "",
+  "counter_one" : "",
+  "counter_other" : "",
+  "counter_zero" : "",
+  "title" : ""
 }

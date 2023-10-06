@@ -1,7 +1,7 @@
 {
-  "back-to-home" : "返回首页",
-  "counter_one" : "一个已选",
-  "counter_other" : "{{count}}个已选",
-  "counter_zero" : "未选中任何",
-  "title" : "客户页面"
+  "back-to-home" : "",
+  "counter_one" : "",
+  "counter_other" : "",
+  "counter_zero" : "",
+  "title" : ""
 }
